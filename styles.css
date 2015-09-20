@@ -1,0 +1,21 @@
+
+/*Google fonts link*/
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700,600italic,600,400italic,300italic,300,700italic,800,800");
+
+/*Universal ligning to top left ask on box-sizing*/
+*{
+   margin: 0;
+   padding:0;
+   box-sizing: border-box;
+}
+
+body{
+    font-family:'Open Sans';
+
+}
+
+.head1{
+    background-color: aqua;
+
+}
