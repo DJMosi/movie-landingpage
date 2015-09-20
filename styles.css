@@ -22,10 +22,10 @@ body{
 }
 
 #container {
-	position: relative;
+    position: relative;
 	overflow: hidden;
-    /*width: 100%;*/
-    /*height: 500px;*/
+    width: 100%;
+    /*height: 1000px;*/
 
 }
 
@@ -37,7 +37,8 @@ body{
 
 .footer{
     background-color: #0A0A2E;
-
+    width: auto;
+    height: 50p%;
 
 }
 
